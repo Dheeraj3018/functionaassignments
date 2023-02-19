@@ -134,29 +134,31 @@
 //3.Using arrow functions
 //odd number
 
-var oddnum1=(num2) =>
-{
-    if(num2%2 && num2!=0)
-       {
-     console.log("odd")   
-     }
-    else{
-     console.log("even")
-    }
-}
-console.log(oddnum1(9))
+// var oddnum1=(num2) =>
+// {
+//     if(num2%2 && num2!=0)
+//        {
+//      console.log("odd")   
+//      }
+//     else{
+//      console.log("even")
+//     }
+// }
+// console.log(oddnum1(9))
 
-//sum of all numbers in an array
+// //sum of all numbers in an array
 
-var res=(i,j)=>{
-    var total=i+j
-    return total
-}
-console.log(res(20,30))
+// var res=(i,j)=>{
+//     var total=i+j
+//     return total
+// }
+// console.log(res(20,30))
 
+// Convert all the strings to title caps in a string array
 
-
-
+// var arr1=(Arun)=>{
+//         console.log(arr1.toUpperCase);
+// }
 
 
 
